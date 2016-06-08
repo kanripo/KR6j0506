@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:52.795451
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:20
 #+TITLE: 聖歡喜天式法
 #+PROPERTY: CBETA_ID T21n1275
 #+PROPERTY: ID KR6j0506
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1275
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0506_T_001-0324a> 
 #+PROPERTY: JUAN 1
 ¶
-No.1275¶
-
- 聖歡喜天式法¶
+No. 1275¶
+聖歡喜天式法¶
 ¶
 三藏法師般若惹羯羅撰¶
 
